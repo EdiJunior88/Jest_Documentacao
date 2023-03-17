@@ -1,4 +1,4 @@
-<img src="img/jest-logo.png" width="55%">
+<img src="img/jest-logo.png" width="40%">
 <h2>Documentação</h2>
 
 <p>Jest é um poderoso Framework de Testes em JavaScript com um foco na simplicidade.</p>
