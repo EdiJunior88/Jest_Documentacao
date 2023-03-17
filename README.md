@@ -13,12 +13,12 @@
 
 <hr>
 
-<strong>Acesso à documentação (inglês):</strong> <a href="https://jestjs.io/pt-BR/docs/getting-started">https://jestjs.io/pt-BR/docs/getting-started</a>
+<strong>Acesso à documentação (Português):</strong> <a href="https://jestjs.io/pt-BR/docs/getting-started">https://jestjs.io/pt-BR/docs/getting-started</a>
 
 <hr>
 
 <ul>
-  <strong>Introdução</strong>ong>
+  <strong>Introdução</strong>
   <ul>
     <li>Iniciando</li>
     <li>Usando Matchers</li>
